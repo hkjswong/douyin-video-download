@@ -405,39 +405,3 @@ https://v.douyin.com/xxxxxxx/
 
 系统会自动识别其中的视频链接。
 
----
-
-## Suggested GitHub Repository Name
-
-```text
-tiktok-douyin-video-downloader
-```
-
-Alternative:
-
-```text
-TikTok-Douyin-Video-Downloader
-```
-
-## Suggested GitHub Description
-
-```text
-Self-hosted TikTok & Douyin video downloader with automatic Douyin share-text URL extraction, Docker API and Cloudflare Tunnel support.
-```
-
-## Suggested GitHub Topics
-
-```text
-tiktok
-douyin
-tiktok-downloader
-douyin-downloader
-video-downloader
-tiktok-video-downloader
-douyin-video-downloader
-nodejs
-docker
-cloudflare
-cloudflare-workers
-self-hosted
-```
